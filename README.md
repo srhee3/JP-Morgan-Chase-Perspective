@@ -1,7 +1,7 @@
 # Stock Market Data Visualization
 Analysing stock market data 
 
-This repository contains all the code for analysing stock market data using JPMorgan Chase Perspective Tool.
+This repository contains all the code for analysing stock market data 
 
 1. Interface with a stock price data feed
 Interface with a stock price data feed and set your system for analysis of data
